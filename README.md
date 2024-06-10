@@ -1,4 +1,4 @@
-**Hi everyone, just enjoy**
+**Just take advantage of this time saving**
 
 You just need to replace your folder by this one. 
 
