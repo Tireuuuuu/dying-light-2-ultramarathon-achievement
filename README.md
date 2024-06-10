@@ -2,7 +2,7 @@
 
 You just need to replace your folder by this one. 
 
-The achievement ask to run 960 kilometers ; With this save, you'll be at 959km ^^ 
+The achievement require to run 960 kilometers ; With this save, you'll be at 959km ^^ 
 
 1) Reach C:\Users\<YourName>\Documents\dying light 2\out\storage and you'll find a folder with an ID (like "44b4e3744d0141f78f3804a354a3e84b"). It's your ID
 2) Save your actual folder in a safe place
